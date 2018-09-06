@@ -1,4 +1,14 @@
-* { color: brown; }
-h1 { color: blue; }
-li { color: magenta; }
-#jatkuu { color: red; }
+body {
+    color: #555;
+    line-height: 1.5;
+    padding: 4em 1em;
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.otsikko {
+    color: #333;
+    margin-top: 1em;
+    padding-top: 1em;
+}
